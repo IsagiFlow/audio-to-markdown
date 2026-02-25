@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/IsagiFlow/audio-to-markdown#readme",
   "devDependencies": {
+    "@types/node": "^25.3.0",
     "typescript": "^5.9.3"
   }
 }
